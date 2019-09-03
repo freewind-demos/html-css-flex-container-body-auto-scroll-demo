@@ -1,8 +1,9 @@
-Html CSS Flex Layout Demo
-=====================
+Html CSS Flex Border Layout Demo
+=================================
 
-用`display:flex`指定container的布局，再用`flex:???`调整内部item的属性。
+使用flex来定义一个BorderLayout
 
 ```
-open index.html
+npm install
+npm run demo
 ```
